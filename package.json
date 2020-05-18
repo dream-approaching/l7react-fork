@@ -1,6 +1,6 @@
 {
   "name": "l7react-fork",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "> L7",
   "main": "lib/index.js",
   "module": "es/index.js",
